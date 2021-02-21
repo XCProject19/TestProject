@@ -2,8 +2,25 @@
   "detainedPeople" : [
     {
       "name" : "U Win Myint",
-      "image_url" : "https://i2-prod.mirror.co.uk/incoming/article21850844.ece/ALTERNATES/s615/4_19788215-high_res-our-girl-s4ed.jpg",
+      "image_url" : "https://cdn1.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2018/03/28/cd522716-3254-11e8-9019-a420e6317de0_1280x720_154718.jpg?itok=kHX34CBD",
       "state" : "President",
+      "detained_reason" : "csfdsgdhffgdgnf",
+      "detained_date" : "01:02:2021",
+      "contentimageArrayList" : [
+                                  {
+                                    "title" : "fsvc",
+                                    "image_url" : "zxczxc"
+                                  },
+                                  {
+                                    "title" : "fsvc",
+                                    "image_url" : "dssgfg"
+                                  }
+                                ]
+    },
+    {
+      "name" : "Daw Aung San Suu Kyi",
+      "image_url" : "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F57326bb3a7ea4353698de709%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D103%26cropX2%3D618%26cropY1%3D29%26cropY2%3D544",
+      "state" : "State Counsellor",
       "detained_reason" : "csfdsgdhffgdgnf",
       "detained_date" : "01:02:2021",
       "contentimageArrayList" : [
