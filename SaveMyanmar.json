@@ -1,4 +1,65 @@
 {
+  "dailyNews" : [
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    },
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    },
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    },
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    }
+  ],
+  "cdmNews" : [
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    },
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    },
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    },
+    {
+      "title" : "Titlefgdf",
+      "image_url" : "https://www.abc.net.au/cm/rimage/13108842-3x2-xlarge.jpg",
+      "description" : "dsafsgdhjfngbdfvsdfasfsgdhfn",
+      "video_url" : "fgbfgbggrgggf",
+      "date" : "22:2:2021"
+    }
+  ],
+  
   "blacklistPerson" : [
     {
       "name" : "Mg Mg",
