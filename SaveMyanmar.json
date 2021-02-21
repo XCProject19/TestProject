@@ -1,4 +1,24 @@
 {
+  "detainedPeople" : [
+    {
+      "name" : "U Win Myint",
+      "image_url" : "https://i2-prod.mirror.co.uk/incoming/article21850844.ece/ALTERNATES/s615/4_19788215-high_res-our-girl-s4ed.jpg",
+      "state" : "President",
+      "detained_reason" : "csfdsgdhffgdgnf",
+      "detained_date" : "01:02:2021",
+      "contentimageArrayList" : [
+                                  {
+                                    "title" : "fsvc",
+                                    "image_url" : "zxczxc"
+                                  },
+                                  {
+                                    "title" : "fsvc",
+                                    "image_url" : "dssgfg"
+                                  }
+                                ]
+    }
+    ],
+  
   "dictator": [
 
     {
