@@ -1,4 +1,22 @@
 {
+  "blacklistPerson" : [
+    {
+      "name" : "Mg Mg",
+      "image_url" : "https://cdn1.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2018/03/28/cd522716-3254-11e8-9019-a420e6317de0_1280x720_154718.jpg?itok=kHX34CBD",
+      "state" : "(Killer)",
+      "blacklist_reason" : "csfdsgdhffgdgnf",
+      "contentimageArrayList" : [
+                                  {
+                                    "title" : "fsvc",
+                                    "image_url" : "zxczxc"
+                                  },
+                                  {
+                                    "title" : "fsvc",
+                                    "image_url" : "dssgfg"
+                                  }
+                                ]
+    }
+  ],
   "deadPeople" : [
     {
       "name" : "Mg Mg",
